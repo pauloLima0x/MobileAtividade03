@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="permissionButton_width">337dp</dimen>
+    <dimen name="button_textsize">14sp</dimen>
+    <dimen name="button_width_text">4sp</dimen>
+    <dimen name="textSize">16sp</dimen>
+    <dimen name="textHeight">40sp</dimen>
+
+</resources>

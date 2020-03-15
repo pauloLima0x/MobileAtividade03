@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sua rota com GPS</string>
+    <string name="finishRoute_text">Terminar Percurso</string>
+    <string name="pastTimeLabel_textview">Tempo Passado:</string>
+    <string name="permission_text">Conceder permissão de GPS</string>
+    <string name="search_textView">O que você deseja encontrar?</string>
+    <string name="startRoute_text">Iniciar Percurso</string>
+    <string name="travelledDistance_text">Distância percorrida</string>
+    <string name="turnOffGps_text">Desativar GPS</string>
+    <string name="turnOnGps_text">Ativar GPS</string>
+    <string name="gps_needed" translatable="false">" É necessário que o GPS esteja ligado. Por favor, clique no botão Ativar GPS"</string>
+    <string name="gps_negate">" Desculpe, mas este aplicativo precisa da permissão do GPS"</string>
+    <string name="permission_needed">" É necessária permissão para usar o  GPS. Por favor, clique no botão Conceder permissão de GPS"</string>
+    <string name="total_distance" translatable="false">" A distância total é:"</string>
+    <string name="total_time">" O tempo total é:"</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ihre Route mit GPS</string>
+    <string name="finishRoute_text">Route beenden</string>
+    <string name="pastTimeLabel_textview">" Vergangene Zeit:"</string>
+    <string name="permission_text">" GPS-Berechtigung erteilen"</string>
+    <string name="search_textView">"Was möchtest du finden? "</string>
+    <string name="startRoute_text">" Route starten"</string>
+    <string name="travelledDistance_text">" Zurückgelegte Strecke:"</string>
+    <string name="turnOffGps_text">" Schalten Sie GPS aus"</string>
+    <string name="turnOnGps_text">Schalten Sie GPS ein</string>
+    <string name="gps_negate" translatable="false">" Entschuldigung, aber diese Anwendung benötigt die GPS-Erlaubnis"</string>
+    <string name="gps_needed" translatable="false">" Es ist notwendig, GPS eingeschaltet zu sein. Bitte klicken Sie auf die Schaltfläche GPS einschalten"</string>
+    <string name="permission_needed">" Es ist eine GPS-Erlaubnis erforderlich. Klicken Sie auf die Schaltfläche GPS-Berechtigung erteilen"</string>
+    <string name="total_distance" translatable="false">" Die Gesamtentfernung beträgt:"</string>
+    <string name="total_time">" Die Gesamtzeit beträgt:"</string>
+</resources>

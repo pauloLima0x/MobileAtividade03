@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Your route with GPS</string>
+    <string name="permission_text">Grant GPS permission</string>
+    <string name="turnOnGps_text">Turn On GPS</string>
+    <string name="turnOffGps_text">Turn Off GPS</string>
+    <string name="startRoute_text">Start Route</string>
+    <string name="finishRoute_text">Finish Route</string>
+    <string name="travelledDistance_text">Travelled Distance:</string>
+    <string name="pastTimeLabel_textview">Past Time:</string>
+    <string name="search_textView">What do you want to find?</string>
+    <string name="permission_needed">It is necessary GPS permission. Please, click on Grant GPS permission button </string>
+    <string name="gps_needed">It is necessary GPS be turned on. Please, click on Turn on GPS button </string>
+    <string name="gps_negate">Sorry but this application need the GPS permission</string>
+    <string name="total_distance">The total distance is: </string>
+    <string name="total_time">The total time is: </string>
+
+</resources>
